@@ -4,4 +4,4 @@
 
 #### [Dashboard]()
 
-#### [Jupiter Notebook]()
+#### [Jupiter Notebook](ReportBikeShare-checkpoint.ipynb)
