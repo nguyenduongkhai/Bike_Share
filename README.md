@@ -1,5 +1,7 @@
 ﻿# Bike Share Case Study
 
-#### [Report]()
+#### [Report](Bike_Share_Report.pdf)
 
 #### [Dashboard]()
+
+#### [Jupiter Notebook]()
